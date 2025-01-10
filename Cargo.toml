@@ -5,7 +5,8 @@ authors = ["Eloi Stree <eloistree@gmail.com>"]
 description = "Allows to use Index Integer Date format in your code called IID"
 homepage = "https://github.com/EloiStree/crates_iid"
 repository = "https://github.com/EloiStree/crates_iid"
-license = "beerware"
+
+license-file = "LICENSE"
 
 [dependencies]
 uuid = "1.3"      
