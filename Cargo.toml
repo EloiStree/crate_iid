@@ -1,0 +1,17 @@
+[package]
+name = "iid"
+version = "0.1.0"
+authors = ["Eloi Stree <eloistree@gmail.com>"]
+description = "Allows to use Index Integer Date format in your code called IID"
+homepage = "https://github.com/EloiStree/crates_iid"
+repository = "https://github.com/EloiStree/crates_iid"
+license = "beerware"
+
+[dependencies]
+uuid = "1.3"      
+rand = "0.8"      
+byteorder = "1.4" 
+regex = "1.7"     
+rsntp = "4.0.0"
+chrono = "0.4"
+
